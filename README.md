@@ -1,1 +1,1 @@
-# product-image-change-on-hover
+# Product-Image-Change-On-Hover
